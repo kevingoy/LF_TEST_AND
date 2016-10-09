@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TEST_LF_KG</string>
+
+    <!-- Keys -->
+    <string name="google_maps_api_key">" AIzaSyCGwJUTFqC6vApbf1pXUKb1Hx-Xi7eqSWk"</string>
+
+    <!-- Currencies -->
+    <string name="eur_currency">€</string>
+
+    <!-- Menu -->
+    <string name="menu_share_restaurant">Partager</string>
+    <string name="menu_favorite_restaurant">Ajouter aux favoris</string>
+
+    <!-- Restaurant Activity -->
+    <string name="plan_restaurant">Plan</string>
+    <string name="review_restaurant">avis</string>
+    <string name="share_restaurant">Partager le restaurant</string>
+
+    <plurals name="picture_number_restaurant">
+        <item quantity="zero">%1$s photo</item>
+        <item quantity="one">%1$s photo</item>
+        <item quantity="other">%1$s photos</item>
+    </plurals>
+</resources>
